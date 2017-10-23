@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVPApp</string>
+    <string name="moviename">MovieName</string>
+    <string name="tagline">Tagline</string>
+    <string name="year">Year</string>
+    <string name="duration">Duration</string>
+    <string name="director">Director</string>
+</resources>
